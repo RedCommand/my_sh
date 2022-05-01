@@ -1,0 +1,7 @@
+*.o
+*.a
+*.gc*
+.vscode/
+vgcore.*
+my_push
+mysh
